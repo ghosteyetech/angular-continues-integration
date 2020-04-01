@@ -28,8 +28,8 @@ module.exports = function (config) {
     autoWatch: true,
     //browsers: ['Chrome'],
     browsers: ['PhantomJS'], /*remove chrome and replace it with PhantomJS */
-    singleRun: true,  /*make it true to run test suits only one time*/
     //singleRun: false,
+    singleRun: true,  /*make it true to run test suits only one time*/
     restartOnFileChange: true
   });
 };
