@@ -1,5 +1,5 @@
 import { Component, OnInit } from '@angular/core';
-import { timer } from 'rxjs';
+//import { timer } from 'rxjs';
 
 @Component({
   selector: 'app-alert-button',
