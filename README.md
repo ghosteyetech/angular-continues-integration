@@ -5,4 +5,5 @@ https://medium.com/aubergine-solutions/continuous-integration-for-angular-with-a
 
 Add dependecies for headless browser for ci
  > npm install --save-dev phantomjs-prebuilt karma-phantomjs-launcher
+ 
 
